@@ -1,6 +1,0 @@
-package com.example.acal.model;
-
-public enum Designation {
-    ASSOCIATE_PROFF,
-    SUSTAINABLE_ENGINEERING
-}
