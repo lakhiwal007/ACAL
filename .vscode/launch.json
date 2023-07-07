@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AcalApplication",
+            "request": "launch",
+            "mainClass": "AcalApplication",
+            "projectName": "acal"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-AcalApplication<acal>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.acal.AcalApplication",
+            "projectName": "acal",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
